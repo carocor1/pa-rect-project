@@ -1,8 +1,8 @@
 import "./App.css";
-import ContadorDeCaracteresComponent from "./practise-useSate/ContadorDeCaracteresComponent";
+import ContadorUE from "./practise-useEffect/ContadorUE";
 
 function App() {
-  return <ContadorDeCaracteresComponent />;
+  return <ContadorUE />;
 }
 
 export default App;
